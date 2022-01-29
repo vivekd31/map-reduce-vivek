@@ -1,4 +1,4 @@
-s = open("s.txt","r")
+s = open("sortedlistoutput.txt","r")
 r = open("r.txt", "w")
 
 thisKey = ""
