@@ -22,3 +22,7 @@ By Analzying the sorted data we came to know that Chicago cubs baseball team bee
 - By examining the final output, I can Conclude that the minimum sum of beer price is 20 and the highest is 38.75.
 
 
+![image](https://github.com/vivekd31/map-reduce-vivek/blob/main/OutputImage1.png)
+
+
+
