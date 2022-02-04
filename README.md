@@ -9,7 +9,7 @@ Link: [Raw Dataset](https://www.kaggle.com/yamqwe/2018-w43-the-cost-of-a-beer-at
 The data I have used consists cost of Beer at mlb stadium by Year,City.
 
 ## Study:
-- For this Dataset, I want to find out the Beer prices at different mlb teams.
+- For this Dataset, I want to find out the sum of Beer prices at different mlb team stadiums.
 
 ## Findings:
 By using mapping and reducing scripts I have processed the data of 1087 cells to 63 cells which shows different Teams and sum of beer prices at their respective stadiums.
